@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "subscriptions": [
+    {
+      "name": "Hulu",
+      "website": "https://www.hulu.com/",
+      "color": "#1ce783",
+      "icon": ""
+    },
+    {
+      "name": "Netflix",
+      "website": "https://www.netflix.com/",
+      "color": "#e50914",
+      "icon": ""
+    },
+    {
+      "name": "Spotify",
+      "website": "https://www.spotify.com/",
+      "color": "#1db954",
+      "icon": ""
+    },
+  ]
+}
