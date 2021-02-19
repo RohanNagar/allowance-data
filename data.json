@@ -5,19 +5,22 @@
       "name": "Hulu",
       "website": "https://www.hulu.com/",
       "color": "#1ce783",
-      "icon": ""
+      "iconPath": "hulu/primary.png",
+      "whiteIconPath": "hulu/white.png"
     },
     {
       "name": "Netflix",
       "website": "https://www.netflix.com/",
       "color": "#e50914",
-      "icon": ""
+      "iconPath": "",
+      "whiteIconPath": ""
     },
     {
       "name": "Spotify",
       "website": "https://www.spotify.com/",
       "color": "#1db954",
-      "icon": ""
+      "iconPath": "spotify",
+      "whiteIconPath": "spotify/white.png"
     },
   ]
 }
