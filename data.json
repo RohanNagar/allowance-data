@@ -19,7 +19,7 @@
       "name": "Spotify",
       "website": "https://www.spotify.com/",
       "color": "#1db954",
-      "iconPath": "spotify",
+      "iconPath": "spotify/primary.png",
       "whiteIconPath": "spotify/white.png"
     },
   ]
