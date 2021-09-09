@@ -5,22 +5,97 @@
       "name": "Hulu",
       "website": "https://www.hulu.com/",
       "color": "#1ce783",
-      "iconPath": "hulu/primary.png",
-      "whiteIconPath": "hulu/white.png"
+      "iconUrl": "https://simpleicons.org/icons/hulu.svg",
+      "plans": [
+        {
+          "name": "Hulu"
+          "price": "5.99"
+          "currency": "usd"
+          "frequency": "monthly"
+        },
+        {
+          "name": "Hulu (No Ads)"
+          "price": "11.99"
+          "currency": "usd"
+          "frequency": "monthly"
+        },
+        {
+          "name": "Hulu + Live TV"
+          "price": "64.99"
+          "currency": "usd"
+          "frequency": "monthly"
+        },
+        {
+          "name": "Hulu (No Ads) + Live TV"
+          "price": "70.99"
+          "currency": "usd"
+          "frequency": "monthly"
+        }
+      ]
     },
     {
       "name": "Netflix",
       "website": "https://www.netflix.com/",
       "color": "#e50914",
-      "iconPath": "",
-      "whiteIconPath": ""
+      "iconUrl": "https://simpleicons.org/icons/netflix.svg",
+      "plans": [
+        {
+          "name": "Basic"
+          "price": "8.99"
+          "currency": "usd"
+          "frequency": "monthly"
+        },
+        {
+          "name": "Standard"
+          "price": "13.99"
+          "currency": "usd"
+          "frequency": "monthly"
+        },
+        {
+          "name": "Premium"
+          "price": "17.99"
+          "currency": "usd"
+          "frequency": "monthly"
+        }
+      ]
     },
     {
       "name": "Spotify",
       "website": "https://www.spotify.com/",
       "color": "#1db954",
-      "iconPath": "spotify/primary.png",
-      "whiteIconPath": "spotify/white.png"
-    },
+      "iconUrl": "https://simpleicons.org/icons/spotify.svg",
+      "plans": [
+        {
+          "name": "Free"
+          "price": "0.00"
+          "currency": "usd"
+          "frequency": "monthly"
+        },
+        {
+          "name": "Student"
+          "price": "4.99"
+          "currency": "usd"
+          "frequency": "monthly"
+        },
+        {
+          "name": "Individual"
+          "price": "9.99"
+          "currency": "usd"
+          "frequency": "monthly"
+        },
+        {
+          "name": "Duo"
+          "price": "12.99"
+          "currency": "usd"
+          "frequency": "monthly"
+        },
+        {
+          "name": "Family"
+          "price": "15.99"
+          "currency": "usd"
+          "frequency": "monthly"
+        }
+      ]
+    }
   ]
 }
